@@ -1,11 +1,15 @@
-# <h1 align="center">Hi 👋, I'm PRINCE</h1>
+<h1 align="center">Hi 👋, I'm PRINCE</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princetd&label=Profile%20views&color=0e75b6&style=flat" alt="princetd" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princetd" alt="princetd" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/princet61494205" target="blank"><img src="https://img.shields.io/twitter/follow/princet61494205?logo=twitter&style=for-the-badge" alt="princet61494205" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/princetd](https://github.com/princetd)
 
-- 📝 I regularly write articles on [MyBlogs](MyBlogs)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NnoC4TQRute4O58TaG8HhUvtkv6mMEmZ/view?usp=sharing](https://drive.google.com/file/d/1NnoC4TQRute4O58TaG8HhUvtkv6mMEmZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +25,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://github.com/princetd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/princetd" /></a><a href="https://ko-fi.com/https://github.com/princetd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://github.com/princetd" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=princetd&show_icons=true&locale=en&layout=compact" alt="princetd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princetd&show_icons=true&locale=en&layout=compact" alt="princetd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princetd&show_icons=true&locale=en" alt="princetd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princetd&" alt="princetd" /></p>
